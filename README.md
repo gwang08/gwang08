@@ -1,6 +1,4 @@
-Here’s a more professional version of your README with updated contact information:
 
----
 
 # 👋 Hi, I'm Gwang!
 
