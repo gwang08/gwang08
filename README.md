@@ -47,37 +47,11 @@ I'm a **React Front-End Developer** passionate about building **interactive** an
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gwang08&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&custom_title=Gwang's%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gwang08&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Profile Views & Followers
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gwang08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/gwang08?label=Followers&style=social" alt="GitHub Followers" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/gwang08/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gwang08&repo=project1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Project 1" />
-  </a>
-  <a href="https://github.com/gwang08/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gwang08&repo=project2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Project 2" />
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Connect with Me
 
@@ -95,21 +69,6 @@ I'm a **React Front-End Developer** passionate about building **interactive** an
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/gwang08/gwang08/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <h3>✨ Feel free to reach out to me through any of these platforms! ✨</h3>
