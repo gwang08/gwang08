@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F85D7F&height=180&section=header&text=Hi%20👋,%20I'm%20Gwang!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F85D7F&height=180&section=header&text=Hi%20,%20I'm%20Gwang!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <!-- Typing SVG -->
