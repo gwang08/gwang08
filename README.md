@@ -1,13 +1,30 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=GWANG&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Trading%20Systems%20Engineer&descSize=20&descAlignY=58"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Building+the+Future+of+Trading;%F0%9F%92%BB+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-Trading%20Systems-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Based-Vietnam%20🇻🇳-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00FF88?style=for-the-badge"/>
+```
+ ██████╗ ██╗    ██╗ █████╗ ███╗   ██╗ ██████╗
+██╔════╝ ██║    ██║██╔══██╗████╗  ██║██╔════╝
+██║  ███╗██║ █╗ ██║███████║██╔██╗ ██║██║  ███╗
+██║   ██║██║███╗██║██╔══██║██║╚██╗██║██║   ██║
+╚██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝
+ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
+```
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  Full-Stack Developer  |  Trading Systems Engineer        ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Building+the+Future+of+Trading;%F0%9F%92%BB+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Trading%20Systems-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based-Vietnam%20🇻🇳-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00FF88?style=for-the-badge"/>
+
 </div>
 
 ---
