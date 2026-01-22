@@ -7,7 +7,7 @@
 ██║   ██║██║███╗██║██╔══██║██║╚██╗██║██║   ██║
 ╚██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝
  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
- 
+
 ╔═══════════════════════════════════════════════════════════╗
 ║  Full-Stack Developer  |  Trading Systems Engineer        ║
 ╚═══════════════════════════════════════════════════════════╝
@@ -67,10 +67,10 @@
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" height="45"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bybit-F7A600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=black"/>
-<img src="https://img.shields.io/badge/MT5-2962FF?style=for-the-badge&logo=metatrader5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Forex-16A34A?style=for-the-badge&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/BYBIT-F7A600?style=for-the-badge&labelColor=F7A600"/>
+<img src="https://img.shields.io/badge/MT5-0066CC?style=for-the-badge&labelColor=0066CC"/>
+<img src="https://img.shields.io/badge/FOREX-16A34A?style=for-the-badge&labelColor=16A34A"/>
 
 </td>
 </tr>
@@ -80,19 +80,6 @@
 
 ## 🔥 WHAT I BUILD
 
-```typescript
-const gwang = {
-    code: ["TypeScript", "JavaScript", "Python", "Java"],
-    technologies: {
-        frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["NestJS", "Node.js", "Prisma"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "Linux", "GitHub Actions"]
-    },
-    trading: ["OKX API", "Bybit API", "MT5", "Forex"],
-    currentFocus: "Building automated trading systems & Telegram bots"
-};
-```
 
 <div align="center">
 
@@ -125,8 +112,6 @@ const gwang = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gwangprogrammer/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhwan0209/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/minhwan1505)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
