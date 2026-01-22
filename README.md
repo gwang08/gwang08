@@ -1,26 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=GWANG&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Trading%20Systems%20Engineer&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=GWANG&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Trading%20Systems%20Engineer&descSize=20&descAlignY=58"/>
 
 <div align="center">
-
-```ascii
-██████╗ ██╗    ██╗ █████╗ ███╗   ██╗ ██████╗
-██╔════╝ ██║    ██║██╔══██╗████╗  ██║██╔════╝
-██║  ███╗██║ █╗ ██║███████║██╔██╗ ██║██║  ███╗
-██║   ██║██║███╗██║██╔══██║██║╚██╗██║██║   ██║
-╚██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝
- ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future+of+Trading;%F0%9F%92%BB+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Building+the+Future+of+Trading;%F0%9F%92%BB+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Trading%20Systems-00D9FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Based-Vietnam-FF6B6B?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00FF88?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Trading%20Systems-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Based-Vietnam%20🇻🇳-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00FF88?style=for-the-badge"/>
 </div>
 
 ---
@@ -61,11 +48,14 @@
 </td>
 <td align="center" width="50%">
 
-### 🔌 INTEGRATIONS
+### 🔌 TRADING INTEGRATIONS
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram,websocket&theme=dark" />
-<img src="https://img.shields.io/badge/OKX-000?style=flat-square&logo=bitcoin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bybit-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=dark" height="45"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bybit-F7A600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMCIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=black"/>
+<img src="https://img.shields.io/badge/MT5-2962FF?style=for-the-badge&logo=metatrader5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Forex-16A34A?style=for-the-badge&logo=tradingview&logoColor=white"/>
 
 </td>
 </tr>
@@ -84,8 +74,8 @@ const gwang = {
         databases: ["PostgreSQL", "MongoDB", "Redis"],
         devOps: ["Docker", "Linux", "GitHub Actions"]
     },
-    currentFocus: "Building automated trading systems & Telegram bots",
-    funFact: "I mass mass mass mass mass mass mass mass mass mass mass"
+    trading: ["OKX API", "Bybit API", "MT5", "Forex"],
+    currentFocus: "Building automated trading systems & Telegram bots"
 };
 ```
 
@@ -95,7 +85,7 @@ const gwang = {
 |:---------------:|:-----------:|:------------:|
 | OKX Integration | Next.js 14+ | Telegram SDK |
 | Bybit API | React + TS | WebApp API |
-| Signal Parser | TailwindCSS | Real-time UI |
+| MT5 / Forex | TailwindCSS | Real-time UI |
 | AI Scoring | NestJS API | In-App Wallet |
 
 </div>
@@ -123,16 +113,6 @@ const gwang = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minhwan0209/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/minhwan1505)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
