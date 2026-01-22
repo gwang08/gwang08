@@ -5,21 +5,58 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=React+Front-End+Developer;Passionate+about+Web+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Trading+Systems+%26+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
-I'm a **React Front-End Developer** passionate about building **interactive** and **scalable** web applications.  
-I love creating beautiful user interfaces and turning ideas into reality through code.  
+I'm a **Full-Stack Developer** passionate about building **scalable** trading systems and **modern** web applications.
+I specialize in creating automated trading bots, real-time systems, and beautiful user interfaces.
 
 ---
 
 ## 💻 Tech Stack
-| Frontend | Backend | Tools |
-|----------|---------|-------|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,java,python,cpp" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" /> |
+
+### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,java,cpp" />
+</div>
+
+### Database & ORM
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" />
+</div>
+
+### DevOps & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,npm,linux" />
+</div>
+
+### APIs & Integrations
+<div align="center">
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/OKX_API-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bybit_API-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</div>
+
+---
+
+## 🛠️ What I Build
+
+| Category | Technologies |
+|----------|-------------|
+| **Trading Bots** | NestJS, OKX/Bybit APIs, Telegram Bot API, WebSocket |
+| **Web Apps** | Next.js 14+, React, TypeScript, TailwindCSS |
+| **Backend Services** | NestJS, Prisma ORM, PostgreSQL, Redis |
+| **Mini Apps** | Telegram Mini App, Next.js, Telegram SDK |
 
 ---
 
