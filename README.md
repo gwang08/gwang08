@@ -70,6 +70,18 @@ const quang = {
 
 ---
 
+## Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| **Nov 2025 - Present** | Junior Software Developer | **B.Army** (Remote) |
+| **Jan 2025 - May 2025** | Front-end Developer Intern | **FPT Software HCM** |
+
+> At **B.Army**, I build Hotel PMS platforms, OTA pricing intelligence systems, and blockchain trading bots.
+> At **FPT Software**, I developed AI chatbot interfaces with React.js and collaborated with AI/backend teams.
+
+---
+
 ## Featured Projects
 
 <div align="center">
@@ -135,17 +147,7 @@ Ticket buying & reselling platform with interactive UI and AI-generated automati
 
 ---
 
-## Work Experience
 
-| Period | Role | Company |
-|--------|------|---------|
-| **Nov 2025 - Present** | Junior Software Developer | **B.Army** (Remote) |
-| **Jan 2025 - May 2025** | Front-end Developer Intern | **FPT Software HCM** |
-
-> At **B.Army**, I build Hotel PMS platforms, OTA pricing intelligence systems, and blockchain trading bots.
-> At **FPT Software**, I developed AI chatbot interfaces with React.js and collaborated with AI/backend teams.
-
----
 
 ## GitHub Stats
 
