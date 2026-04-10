@@ -33,7 +33,7 @@
 
 ## Work Experience
 
-### <img src="https://img.shields.io/badge/B.Army-6C63FF?style=flat-square" /> Junior Software Developer (Remote)
+### <img src="https://img.shields.io/badge/B.Army-6C63FF?style=flat-square" /> Junior Software Developer 
 `Nov 2025 - Present`
 
 **Property Management System (PMS) - Hotel Operations Platform**
@@ -56,7 +56,7 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/FPT_Software_HCM-E34F26?style=flat-square" /> Front-end Developer Intern (Onsite)
+### <img src="https://img.shields.io/badge/FPT_Software_HCM-E34F26?style=flat-square" /> Front-end Developer Intern 
 `Jan 2025 - May 2025`
 
 - Developed user interface for an AI-powered chatbot (AI Agent) using React.js
