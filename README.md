@@ -130,7 +130,7 @@ Ticket buying & reselling platform with interactive UI and AI-generated automati
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gwang08&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=gwang08&theme=tokyonight" />
 
 </div>
 ---
