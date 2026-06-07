@@ -82,7 +82,7 @@ AI-powered automated futures trading across **OKX, Bybit, BingX** - live order e
 
 **Claude Workspace** | *Jan 2026 - Feb 2026*
 
-Full-stack app integrating Claude AI for coding workflows - Kanban task management, real-time AI streaming, Git integration.
+Full-stack app integrating Claude AI for coding workflows - Kanban task management, real-time AI streaming, Git integration
 
 `Next.js` `Socket.io` `Drizzle ORM` `SQLite`
 
