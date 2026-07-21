@@ -120,13 +120,6 @@ Ticket buying & reselling platform with interactive UI and AI-generated automati
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gwang08&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gwang08&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
