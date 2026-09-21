@@ -34,7 +34,7 @@
 ## Work Experience
 
 ### <img src="https://img.shields.io/badge/B.Army-6C63FF?style=flat-square" /> Junior Software Developer 
-`Nov 2025 - Present`
+`Nov 2025 - Sep 2026`
 
 **Property Management System (PMS) - Hotel Operations Platform**
 - Designed & maintained a web-based PMS for hotel operations including booking workflows, room allocation, reservation management and dynamic rate plans
