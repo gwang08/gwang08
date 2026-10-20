@@ -54,14 +54,14 @@
 - Streamlined deployments using GitHub Actions, DigitalOcean, and PM2.
 
 ### Junior Software Developer
-`Nov 2025 – Sep 2026` · B.Army
+`Nov 2025 – Sep 2026` · PrivOS
 
 - Developed a hotel PMS using NestJS, Prisma, PostgreSQL, and Next.js.
 - Built OTA pricing crawlers and real-time channel synchronization with BullMQ and Socket.IO.
 - Integrated Gemini AI agents and MCP servers for hotel inventory, rates, and booking operations.
 - Maintained automated tests across APIs, business logic, and frontend components.
 
-### Front-end Developer Intern
+### Front-end Developer 
 `Jan 2025 – May 2025` · FPT Software
 
 - Built React.js interfaces for an AI chatbot and integrated NLP features with backend and AI teams.
