@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey there! I'm Quang <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hey there! I'm Quang 👋
 
-### `Full-Stack Developer` | `AI Enthusiast` | `Trading Systems Builder`
+### `Full-Stack Developer` | `AI Agents & LLM Integration` | `B2B SaaS`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-gwangportfolio.site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gwangportfolio.site)
-[![Gmail](https://img.shields.io/badge/Gmail-leminhquang.2992-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhquang.2992@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-minhquang.site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://minhquang.site)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhquang.2992@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-gwang08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gwang08)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Trading+Systems;Full-Stack+Web+Applications;Turning+Ideas+Into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+Production+AI+Agents;Full-Stack+TypeScript+%26+Python;Turning+Ideas+Into+Products" alt="Typing SVG" />
 
 </div>
 
@@ -16,113 +16,82 @@
 
 ## About Me
 
-- Currently building **Hotel PMS** & **OTA Pricing Intelligence** systems at B.Army
-- Experienced in **crypto trading bots** across OKX, Bybit & BingX
-- Interned at **FPT Software** working on AI Chatbot interfaces
-- Always exploring the intersection of **AI** and **real-world products**
+- Building production **AI agents, SaaS platforms, and trading systems**.
+- Integrated **57 LLM tool-calling functions** and **48 MCP tools** into hotel operations.
+- Built and operated a trading platform with **30 monthly paying users**.
+- Experienced in full-stack development, automated testing, and CI/CD.
 
-## Tech Stack
+## Core Skills
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
+- **Frontend:** TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Node.js, NestJS, Python (FastAPI), PostgreSQL, Prisma, Redis / BullMQ
+- **AI:** Claude Code, MCP Servers, LLM Tool Calling (Gemini API), Prompt Engineering, scikit-learn / LightGBM
+- **Testing:** Jest, Supertest, React Testing Library, Vitest, pytest
+- **Infrastructure:** Docker, DigitalOcean VPS, AWS S3, GitHub Actions CI/CD, Vercel, PM2
 
 ---
 
 ## Work Experience
 
-### <img src="https://img.shields.io/badge/B.Army-6C63FF?style=flat-square" /> Junior Software Developer 
-`Nov 2025 - Sep 2026`
+### Full-Stack Developer — Freelance
+`Oct 2026 – Present` · Binance Alpha Swing
 
-**Property Management System (PMS) - Hotel Operations Platform**
-- Designed & maintained a web-based PMS for hotel operations including booking workflows, room allocation, reservation management and dynamic rate plans
-- Integrated third-party channel manager APIs for real-time availability & pricing synchronization
-- Built RESTful APIs and operational dashboards for hotel staff and administrators
-- Implemented complex booking logic: multi-room reservations and dynamic pricing rules
+- Built a crypto swing-trading pipeline with Python, FastAPI, PostgreSQL, and a 19-page Next.js dashboard.
+- Developed backtesting, ML ranking, and Telegram screening workflows.
+- Backtested strategy: +13.6% per trade, 52% win rate, and -7% maximum drawdown.
 
-**OTA Pricing & Travel Intelligence System**
-- Developed data crawling system to collect pricing data from major Online Travel Agencies
-- Designed pricing intelligence model to analyze market trends and optimize hotel pricing strategies
-- Built data pipelines and automation tools to process and normalize large-scale OTA datasets
-- Provided actionable insights to support revenue optimization and traveler decision-making
+### Full-Stack Developer — Freelance
+`Sep 2026 – Present` · GMGN Wallet Analytics
 
-**Blockchain & Algorithmic Trading Systems**
-- Developed automated trading bots for Bybit, OKX, and BingX exchanges
-- Implemented API-based trade execution, risk management logic, and position monitoring
-- Built strategy backtesting modules and performance tracking dashboards
-- Optimized algorithms for volatility-based and trend-following strategies
+- Built multi-chain DEX wallet analytics using Python, FastAPI, and Next.js.
+- Added trader performance metrics, Excel/Google Sheets exports, and resilient API integrations.
 
----
+### Telegram Bot Developer — Freelance, Part-time
+`Mar 2026 – Present` · Boomerang Trading
 
-### <img src="https://img.shields.io/badge/FPT_Software_HCM-E34F26?style=flat-square" /> Front-end Developer Intern 
-`Jan 2025 - May 2025`
+- Built and maintained **8+ production Telegram bots** using NestJS, Telegraf, and PostgreSQL.
+- Integrated Gemini AI for automated support and intent detection.
+- Streamlined deployments using GitHub Actions, DigitalOcean, and PM2.
 
-- Developed user interface for an AI-powered chatbot (AI Agent) using React.js
-- Collaborated with backend and AI teams to integrate natural language processing features
-- Focused on creating clean, responsive UI/UX for real-time chatbot interaction
+### Junior Software Developer
+`Nov 2025 – Sep 2026` · B.Army
 
----
+- Developed a hotel PMS using NestJS, Prisma, PostgreSQL, and Next.js.
+- Built OTA pricing crawlers and real-time channel synchronization with BullMQ and Socket.IO.
+- Integrated Gemini AI agents and MCP servers for hotel inventory, rates, and booking operations.
+- Maintained automated tests across APIs, business logic, and frontend components.
 
-## Featured Projects
+### Front-end Developer Intern
+`Jan 2025 – May 2025` · FPT Software
 
-<table>
-<tr>
-<td width="50%">
-
-**AI Futures Trading Bot** | *Dec 2025 - Feb 2026*
-
-AI-powered automated futures trading across **OKX, Bybit, BingX** - live order execution, risk management & real-time decision logic. **30+ monthly paying users.**
-
-[![Marlin](https://img.shields.io/badge/Live-marlin.website-6C63FF?style=flat-square)](https://marlin.website/) [![Bybit](https://img.shields.io/badge/Live-Bybit_Bot-6C63FF?style=flat-square)](https://bybit-autotrade-fe.vercel.app/) [![Helios](https://img.shields.io/badge/Live-Helios-6C63FF?style=flat-square)](https://helios-sandy-one.vercel.app/)
-
-</td>
-<td width="50%">
-
-**Claude Workspace** | *Jan 2026 - Feb 2026*
-
-Full-stack app integrating Claude AI for coding workflows - Kanban task management, real-time AI streaming, Git integration
-
-`Next.js` `Socket.io` `Drizzle ORM` `SQLite`
-
-[![Live](https://img.shields.io/badge/Live-claude--webapp-6C63FF?style=flat-square)](https://claude-webapp.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**GoodMeal - AI Food Recommendation** | *Jun - Aug 2025*
-
-Real-time food recommendation web app with responsive UI/UX and AI-powered suggestions.
-
-`Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/gwang08/GoodMeal-AI-Food-Recommendation-Web-App)
-
-</td>
-<td width="50%">
-
-**TicketResell Web App** | *Sep - Nov 2024*
-
-Ticket buying & reselling platform with interactive UI and AI-generated automation testing via CodeceptJS.
-
-`Next.js` `TypeScript` `SQL Server` `Tailwind CSS`
-
-[![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/gwang08/TicketResell_Web)
-
-</td>
-</tr>
-</table>
+- Built React.js interfaces for an AI chatbot and integrated NLP features with backend and AI teams.
 
 ---
 
+## Featured Project
+
+### 🐟 Marlin — AI Futures Trading Platform
+
+AI-powered automated futures trading across **OKX, Bybit, and BingX**, featuring signal analysis, automated execution, position management, risk controls, and a real-time dashboard.
+
+- Reached **30 monthly paying users**.
+- Built and operated the platform end to end.
+
+[![Live Demo](https://img.shields.io/badge/Live-marlin.website-6C63FF?style=flat-square)](https://marlin.website/)
+
+---
+
+## Education
+
+**FPT University** · B.Eng. Software Engineering  
+`Oct 2022 – May 2026` · GPA: 3.2/4.0
+
+---
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhquang.2992@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gwangportfolio.site)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://minhquang.site)
 
 <img src="https://komarev.com/ghpvc/?username=gwang08&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
