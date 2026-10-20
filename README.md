@@ -124,6 +124,6 @@ Ticket buying & reselling platform with interactive UI and AI-generated automati
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leminhquang.2992@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gwangportfolio.site)
 
-<img src="https://komarev.com/ghpvc/?username=gwang08&color=6C63FF&style=flat-square&label=Profile%20Views" alt="Profile Views" />
+<img src="https://counter.othmaro.dev/api/views?id=gwang08&label=Profile%20Views&rightColor=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
